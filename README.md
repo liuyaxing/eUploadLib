@@ -1,10 +1,5 @@
 # eUploadLib
 
-[![CI Status](https://img.shields.io/travis/liuyaxing/eUploadLib.svg?style=flat)](https://travis-ci.org/liuyaxing/eUploadLib)
-[![Version](https://img.shields.io/cocoapods/v/eUploadLib.svg?style=flat)](https://cocoapods.org/pods/eUploadLib)
-[![License](https://img.shields.io/cocoapods/l/eUploadLib.svg?style=flat)](https://cocoapods.org/pods/eUploadLib)
-[![Platform](https://img.shields.io/cocoapods/p/eUploadLib.svg?style=flat)](https://cocoapods.org/pods/eUploadLib)
-
 ## Version ->1.0.9
 
 ## Example
